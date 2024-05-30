@@ -14,8 +14,3 @@ Backend: Python, Flask
 Data Handling: Pandas, Numpy
 Machine Learning: Scikit-learn (for recommendation algorithm)
 
-
-Getting Started
-Prerequisites
-Python 3.x installed on your local machine
-Virtual environment tool (e.g., venv or virtualenv)
